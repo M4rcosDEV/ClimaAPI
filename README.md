@@ -3,6 +3,8 @@
 ## Descrição
 Uma aplicação web simples onde o usuario vai informar a cidade que deseja receber as informações meteorológicas e a aplicações vai fazer uma consulta na API e trazer as informações climaticas da determinada cidade.
 
+![Imagem do projeto](assets/projeto.png)
+
 ## Instruções de Execução
 1. Clone o repositório.
 2. Navegue até o diretório do projeto.
